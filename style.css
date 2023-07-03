@@ -1,0 +1,41 @@
+#container {
+    display: flex;
+    width: 960px;
+    height: 500px;
+    border: solid black;
+    background-color: white;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(to right, blue,indigo,violet);
+}
+button {
+    flex: 1 ;
+    margin-bottom: 2vmin;
+    width: 150px;
+    background-color:rgb(191, 214, 62);
+    border-radius: 10%;
+    border-style: solid;
+    border-color:black;
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+    font-family:monospace;
+}
+h3 {
+    border-color: darkslategray;
+    border-radius: 8%;
+    border: solid ;
+    padding: 1vmin;
+    font-family:  Helvetica, sans-serif;
+    font-size:xx-large;
+    font-style:oblique;
+    font-weight: 800;
+    background-color: rgb(90, 177, 204);
+    flex: 1;
+}
+.options{
+    color: white;
+}
