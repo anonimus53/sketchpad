@@ -1,5 +1,5 @@
 #container {
-    display: flex;
+    display: grid;
     width: 960px;
     height: 500px;
     border: solid black;
@@ -38,4 +38,7 @@ h3 {
 }
 .options{
     color: white;
+}
+.item {
+    color:rgb(90, 177, 204);
 }
