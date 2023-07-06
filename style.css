@@ -42,3 +42,14 @@ h3 {
 .item {
     color:rgb(90, 177, 204);
 }
+h4{
+    color: white;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+span{
+    color: white;
+    font-size: large;
+    font-style: italic;
+}
