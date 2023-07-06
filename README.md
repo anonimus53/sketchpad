@@ -1,2 +1,2 @@
 # sketchpad
-build a browser version of something between a sketchpad and an Etch-A-Sketch.
+Exercise,build a browser version of something between a sketchpad and an Etch-A-Sketch.
